@@ -1,0 +1,10 @@
+c:\users\burak\source\repos\Burak_Okey\Burak_Okey\bin\Debug\Burak_Okey.exe.config
+c:\users\burak\source\repos\Burak_Okey\Burak_Okey\bin\Debug\Burak_Okey.exe
+c:\users\burak\source\repos\Burak_Okey\Burak_Okey\bin\Debug\Burak_Okey.pdb
+c:\users\burak\source\repos\Burak_Okey\Burak_Okey\obj\Debug\Burak_Okey.csprojResolveAssemblyReference.cache
+c:\users\burak\source\repos\Burak_Okey\Burak_Okey\obj\Debug\Burak_Okey.Properties.Resources.resources
+c:\users\burak\source\repos\Burak_Okey\Burak_Okey\obj\Debug\Burak_Okey.csproj.GenerateResource.cache
+c:\users\burak\source\repos\Burak_Okey\Burak_Okey\obj\Debug\Burak_Okey.csproj.CoreCompileInputs.cache
+c:\users\burak\source\repos\Burak_Okey\Burak_Okey\obj\Debug\Burak_Okey.exe
+c:\users\burak\source\repos\Burak_Okey\Burak_Okey\obj\Debug\Burak_Okey.pdb
+c:\users\burak\source\repos\Burak_Okey\Burak_Okey\obj\Debug\Burak_Okey.Form1.resources
